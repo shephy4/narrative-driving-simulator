@@ -1,0 +1,214 @@
+{
+  "profile": {
+    "name": "Kemi",
+    "confidence": "very nervous",
+    "important_person": "to pick up my daughter from school",
+    "route": "1",
+    "run_number": 2,
+    "spawn_pos": [
+      1229.0,
+      2800.0,
+      175.0
+    ],
+    "spawn_rot": [
+      0.0,
+      0.0,
+      0.9609,
+      0.2768
+    ],
+    "route_label": "Route 1 \u2014 Junction near SLOW marking"
+  },
+  "route": "1",
+  "run_number": 2,
+  "date": "2026-05-12 14:33",
+  "total_responses": 11,
+  "responses": [
+    {
+      "elapsed_seconds": 0,
+      "gagne_event": "gain attention",
+      "events_detected": [
+        "starting the journey"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, just take your time and breathe, we've got plenty of space to get to the school before the kids come out. I see a cyclists ahead, let's give them a nice big gap, shall we?",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 4,
+        "emotional_stakes": 5,
+        "total": 23
+      }
+    },
+    {
+      "elapsed_seconds": 12,
+      "gagne_event": "gain attention",
+      "events_detected": [
+        "very sharp steering \u2014 tight bend or hazard"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, easy does it, you're doing great, just take a deep breath and relax your grip on the wheel. Look, there's a cyclist up ahead, let's give them plenty of space, shall we?",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 4,
+        "emotional_stakes": 5,
+        "total": 23
+      }
+    },
+    {
+      "elapsed_seconds": 25,
+      "gagne_event": "gain attention",
+      "events_detected": [
+        "aggressive acceleration at speed"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, easy does it, you're going a bit fast, let's take it down a notch, we're coming up to a junction and I can see kids walking home from school around here. Take a deep breath and let's slow down, I've got your back.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 5,
+        "emotional_stakes": 5,
+        "total": 24
+      }
+    },
+    {
+      "elapsed_seconds": 37,
+      "gagne_event": "gain attention",
+      "events_detected": [
+        "significant steering \u2014 bend or junction"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing so much better, just take a deep breath and relax, we're coming up to a junction now, let's slow down and take a peek at the traffic.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 4,
+        "emotional_stakes": 5,
+        "total": 23
+      }
+    },
+    {
+      "elapsed_seconds": 49,
+      "gagne_event": "gain attention",
+      "events_detected": [
+        "driving very smoothly and steadily"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, really smooth driving, and we're approaching a junction now, just take your time and let's check the traffic before we turn.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 3,
+        "emotional_stakes": 5,
+        "total": 22
+      }
+    },
+    {
+      "elapsed_seconds": 63,
+      "gagne_event": "stimulate recall",
+      "events_detected": [
+        "driving very smoothly and steadily"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, really smooth driving, and I love how you're keeping an eye on the road ahead, by the way, let's get ready to slow down a bit as we're approaching the school zone.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 4,
+        "environment_consistency": 2,
+        "character_authenticity": 4,
+        "emotional_stakes": 5,
+        "total": 20
+      }
+    },
+    {
+      "elapsed_seconds": 75,
+      "gagne_event": "stimulate recall",
+      "events_detected": [
+        "speeding at 62 km/h in 50 zone"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, easy does it, you're doing great, just take a deep breath and let's slow down a bit, we don't want to rush, especially with kids around schools like the one we're heading to.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 2,
+        "character_authenticity": 4,
+        "emotional_stakes": 5,
+        "total": 21
+      }
+    },
+    {
+      "elapsed_seconds": 87,
+      "gagne_event": "stimulate recall",
+      "events_detected": [
+        "speeding at 55 km/h in 50 zone"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, just ease off the accelerator a bit, we're approaching a junction and I can see kids walking near the school ahead, let's slow down and get ready to turn.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 4,
+        "emotional_stakes": 5,
+        "total": 23
+      }
+    },
+    {
+      "elapsed_seconds": 100,
+      "gagne_event": "stimulate recall",
+      "events_detected": [
+        "driving very smoothly and steadily"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, nice and smooth, just like we practiced. Now, let's get ready to turn up ahead, I see a sign for the school, and there are pedestrians waiting to cross, so let's slow down a bit.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 4,
+        "emotional_stakes": 5,
+        "total": 23
+      }
+    },
+    {
+      "elapsed_seconds": 112,
+      "gagne_event": "stimulate recall",
+      "events_detected": [
+        "driving very smoothly and steadily"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, really smooth and steady, just like we're approaching a junction now, let's take a peek at the traffic and pedestrians.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 3,
+        "emotional_stakes": 5,
+        "total": 22
+      }
+    },
+    {
+      "elapsed_seconds": 124,
+      "gagne_event": "present content",
+      "events_detected": [
+        "driving very smoothly and steadily"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, just keep going steady, we're approaching a junction up ahead and I can see a cyclist on the side, just keep an eye on them as we turn.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 4,
+        "environment_consistency": 4,
+        "character_authenticity": 3,
+        "emotional_stakes": 5,
+        "total": 21
+      }
+    }
+  ]
+}

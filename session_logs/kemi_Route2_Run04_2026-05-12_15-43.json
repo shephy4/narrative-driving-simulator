@@ -1,0 +1,164 @@
+{
+  "profile": {
+    "name": "kemi",
+    "confidence": "very nervous",
+    "important_person": "to pick up my daughter from school",
+    "route": "2",
+    "run_number": 4,
+    "spawn_pos": [
+      902.996521,
+      2240.44312,
+      112.616074
+    ],
+    "spawn_rot": [
+      0.0,
+      0.0,
+      -0.7327,
+      0.6806
+    ],
+    "route_label": "Route 2 \u2014 Near building with asphalt road"
+  },
+  "route": "2",
+  "run_number": 4,
+  "date": "2026-05-12 15:43",
+  "total_responses": 8,
+  "responses": [
+    {
+      "elapsed_seconds": 0,
+      "gagne_event": "gain attention",
+      "events_detected": [
+        "starting the journey"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, just take a deep breath and relax, we're approaching the first junction, just check those mirrors and let's take it slow.",
+      "scores": {
+        "personal_relevance": 4,
+        "training_embedding": 4,
+        "environment_consistency": 4,
+        "character_authenticity": 3,
+        "emotional_stakes": 5,
+        "total": 20
+      }
+    },
+    {
+      "elapsed_seconds": 26,
+      "gagne_event": "gain attention",
+      "events_detected": [
+        "significant steering \u2014 bend or junction"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, nice and smooth, you navigated that bend perfectly, now let's get ready to turn left up ahead at the junction, I can see the school sign, and oh, look, there are some kids waiting to cross the road.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 4,
+        "environment_consistency": 5,
+        "character_authenticity": 4,
+        "emotional_stakes": 5,
+        "total": 23
+      }
+    },
+    {
+      "elapsed_seconds": 44,
+      "gagne_event": "gain attention",
+      "events_detected": [
+        "significant steering \u2014 bend or junction"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, just take a deep breath and focus on the road ahead, we're approaching a junction so let's slow down a bit. I can see a cyclist up ahead, so let's give them plenty of space, okay?",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 3,
+        "emotional_stakes": 5,
+        "total": 22
+      }
+    },
+    {
+      "elapsed_seconds": 56,
+      "gagne_event": "gain attention",
+      "events_detected": [
+        "very sharp steering \u2014 tight bend or hazard",
+        "very slow \u2014 possible junction hesitation"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, just take a deep breath and relax, we've got plenty of time to get to the school, and I can see a cyclist up ahead so let's make sure to give them plenty of space.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 3,
+        "emotional_stakes": 5,
+        "total": 22
+      }
+    },
+    {
+      "elapsed_seconds": 71,
+      "gagne_event": "stimulate recall",
+      "events_detected": [
+        "very slow \u2014 possible junction hesitation"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, just take your time and breathe, we've got plenty of space to get to the school before the kids come out, and I see a cyclist up ahead, let's leave a good gap, shall we?",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 4,
+        "emotional_stakes": 5,
+        "total": 23
+      }
+    },
+    {
+      "elapsed_seconds": 84,
+      "gagne_event": "stimulate recall",
+      "events_detected": [
+        "significant steering \u2014 bend or junction"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, nice and smooth around that bend, now let's get ready to turn left up ahead, I see a give way sign and a pedestrian crossing, just check your mirrors and slow down a bit.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 3,
+        "emotional_stakes": 5,
+        "total": 22
+      }
+    },
+    {
+      "elapsed_seconds": 96,
+      "gagne_event": "stimulate recall",
+      "events_detected": [
+        "driving very smoothly and steadily"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, really smooth and steady, I'm so proud of you. Let's keep an eye out for pedestrians and kids near the school zone we're approaching, and check those mirrors regularly, okay?",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 4,
+        "environment_consistency": 2,
+        "character_authenticity": 3,
+        "emotional_stakes": 5,
+        "total": 19
+      }
+    },
+    {
+      "elapsed_seconds": 116,
+      "gagne_event": "stimulate recall",
+      "events_detected": [
+        "significant steering \u2014 bend or junction"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, just take a deep breath and relax, we're approaching a junction and I can see a cyclist ahead, let's make sure to give them plenty of space.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 3,
+        "emotional_stakes": 5,
+        "total": 22
+      }
+    }
+  ]
+}

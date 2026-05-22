@@ -1,0 +1,181 @@
+{
+  "profile": {
+    "name": "Kemi",
+    "confidence": "very nervous",
+    "important_person": "to pick up my daughter from school",
+    "route": "1",
+    "run_number": 5,
+    "spawn_pos": [
+      1229.0,
+      2800.0,
+      175.0
+    ],
+    "spawn_rot": [
+      0.0,
+      0.0,
+      0.9609,
+      0.2768
+    ],
+    "route_label": "Route 1 \u2014 Junction near SLOW marking"
+  },
+  "route": "1",
+  "run_number": 5,
+  "date": "2026-05-12 14:47",
+  "total_responses": 9,
+  "responses": [
+    {
+      "elapsed_seconds": 0,
+      "gagne_event": "gain attention",
+      "events_detected": [
+        "starting the journey"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great so far, just take a deep breath and relax, we've got plenty of time to get to the school. I see a cyclist up ahead, let's give them some space, shall we?",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 4,
+        "emotional_stakes": 5,
+        "total": 23
+      }
+    },
+    {
+      "elapsed_seconds": 16,
+      "gagne_event": "gain attention",
+      "events_detected": [
+        "very sharp steering \u2014 tight bend or hazard"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, easy does it, you're doing great, just take a deep breath and relax your grip on the wheel, we're approaching a junction up ahead and there are kids walking home from school, so let's slow down a bit.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 4,
+        "environment_consistency": 4,
+        "character_authenticity": 3,
+        "emotional_stakes": 5,
+        "total": 21
+      }
+    },
+    {
+      "elapsed_seconds": 52,
+      "gagne_event": "gain attention",
+      "events_detected": [
+        "aggressive acceleration at speed"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, easy does it, you're doing great, just take a deep breath and let's slow down a bit, we don't want to rush to get to the school, especially with all these pedestrians around.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 2,
+        "character_authenticity": 4,
+        "emotional_stakes": 5,
+        "total": 21
+      }
+    },
+    {
+      "elapsed_seconds": 64,
+      "gagne_event": "stimulate recall",
+      "events_detected": [
+        "driving very smoothly and steadily"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing so well, really smooth and steady, I'm proud of you, and look, there's a cyclist up ahead, let's give them plenty of space, shall we?",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 3,
+        "emotional_stakes": 5,
+        "total": 22
+      }
+    },
+    {
+      "elapsed_seconds": 81,
+      "gagne_event": "stimulate recall",
+      "events_detected": [
+        "significant steering \u2014 bend or junction"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, just relax and take your time, we've got a junction coming up and I can see a cyclist ahead, so let's slow down a bit and make sure we give them plenty of space.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 3,
+        "emotional_stakes": 5,
+        "total": 22
+      }
+    },
+    {
+      "elapsed_seconds": 93,
+      "gagne_event": "stimulate recall",
+      "events_detected": [
+        "very sharp steering \u2014 tight bend or hazard"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, easy does it, you're doing great, just take a deep breath and relax your grip on the wheel, we've got a junction coming up ahead and I can see a few kids walking home from school, let's slow down a bit.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 4,
+        "emotional_stakes": 5,
+        "total": 23
+      }
+    },
+    {
+      "elapsed_seconds": 106,
+      "gagne_event": "stimulate recall",
+      "events_detected": [
+        "driving very smoothly and steadily"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, you're doing great, nice and smooth, just like we practiced. I can see a cyclist up ahead, let's make sure to give them plenty of space, okay?",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 3,
+        "emotional_stakes": 5,
+        "total": 22
+      }
+    },
+    {
+      "elapsed_seconds": 118,
+      "gagne_event": "stimulate recall",
+      "events_detected": [
+        "speeding at 56 km/h in 50 zone",
+        "aggressive acceleration at speed"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, easy does it, you're doing great, just take a deep breath and let's slow down a bit, we don't want to rush to get to the school, especially with all these kids around.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 4,
+        "character_authenticity": 5,
+        "emotional_stakes": 5,
+        "total": 24
+      }
+    },
+    {
+      "elapsed_seconds": 131,
+      "gagne_event": "present content",
+      "events_detected": [
+        "speeding at 78 km/h in 50 zone"
+      ],
+      "scene_described": null,
+      "maya_response": "Kemi, easy does it, you're doing great, but maybe take your foot off the accelerator a bit, we're approaching a school zone and I can see kids waiting at the bus stop ahead, let's slow down and make sure we're giving them plenty of space.",
+      "scores": {
+        "personal_relevance": 5,
+        "training_embedding": 5,
+        "environment_consistency": 2,
+        "character_authenticity": 4,
+        "emotional_stakes": 5,
+        "total": 21
+      }
+    }
+  ]
+}
