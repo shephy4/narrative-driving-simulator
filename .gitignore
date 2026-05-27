@@ -12,7 +12,7 @@ venv/
 env/
 
 # Session data (optional — add if you don't want JSON files on GitHub)
-*.json
+session_logs/
 
 # OS files
 .DS_Store
