@@ -2,7 +2,7 @@
 ### MSc Dissertation — De Montfort University, 2026
 
 > **"Towards a Generative Narrative Layer for Driver Training Simulators"**  
-> Author: Oluw B | Supervisor: Dr A ni
+> Author: Oluwasefunmi Bamidele | Supervisor: Dr Aboozar Taherkhani
 
 ---
 
